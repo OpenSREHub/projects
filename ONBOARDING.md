@@ -1,35 +1,49 @@
-# Onboarding Process for SRE Community Projects
+# Onboarding Process for SRE Community Open Source Hub
 
-Welcome to the SRE Community Projects! Follow this onboarding guide to submit and maintain your project within our GitHub organization.
+Welcome to the **SRE Community Open Source Hub**! Follow these steps to onboard your project smoothly and become part of our growing open-source community.
 
-## Step 1: Submit a Project Proposal
+---
+
+## 🚀 Step 1: Submit Your Project
 1. Fork the `projects` repository.
-2. Create a new directory under `proposals/` using your project name (e.g., `proposals/my-awesome-project`).
-3. Copy the `PROJECT_TEMPLATE.md` file into your directory and fill it out with your project details.
-4. Submit a Pull Request (PR) with your completed proposal.
-5. Wait for community review and approval.
+2. Copy the `PROJECT_TEMPLATE.md` file into a new folder under `submissions/your-project-name`.
+3. Fill in all the required details in `PROJECT_TEMPLATE.md`.
+4. Open a **Pull Request (PR)** to propose your project.
+5. Add the `new-submission` label to your PR.
 
-## Step 2: Project Acceptance & Repository Creation
-1. Once approved, the maintainers will create a dedicated repository under the SRE Community GitHub organization.
-2. You will be granted the necessary permissions to manage your project.
-3. Follow our contribution guidelines (`CONTRIBUTING.md`) to set up your repo.
+---
 
-## Step 3: Initial Project Setup
-1. Clone your newly created repository.
-2. Set up the necessary project structure, including:
-    - `README.md` (Project overview and instructions)
-    - `CONTRIBUTING.md` (Guidelines for contributors)
-    - `LICENSE` (Choose an appropriate open-source license)
-    - `CODE_OF_CONDUCT.md` (Community behavior guidelines)
-3. Push your code and ensure the repository is well-documented.
+## 🔍 Step 2: Project Review & Approval
+1. The maintainers will review your submission and provide feedback.
+2. If changes are needed, your PR will be labeled `changes-requested`.
+3. Once approved, your PR will receive the `approved` label and be merged.
+4. Your project will move to the **onboarding** phase.
 
-## Step 4: Ongoing Contributions & Community Engagement
-1. Engage with contributors by reviewing PRs and providing feedback.
-2. Keep your repository updated with clear issues, milestones, and project boards.
-3. Actively participate in the SRE Community discussions and share updates.
-4. If your project becomes inactive, inform the maintainers for possible archival.
+---
 
-## Need Help?
-If you have any questions or need support, feel free to reach out via GitHub Discussions or our community Slack/WhatsApp group.
+## 📦 Step 3: Onboarding & Repository Transfer
+Once your project is approved, you need to transfer it under the **SRE Community GitHub Organization**.
 
-Let's build together! 🚀
+### ✅ Maintainer Transfers Ownership (Recommended)
+1. The maintainers will create a new repository under the `srecommunity` organization.
+2. They will invite you as a **Maintainer** of your project.
+3. You will be granted full access to manage your repository.
+4. Your project will officially become part of the **SRE Community Open Source Hub**!
+
+---
+
+## 🤝 Step 4: Assigning Maintainers
+1. The core maintainers will discuss and assign a **lead maintainer** for the project.
+2. Additional contributors may be invited based on activity and contributions.
+3. Your project will now be open for collaboration!
+
+---
+
+## 🎯 Final Step: Announce & Engage!
+1. Your project will be listed in the `README.md` of the main repository.
+2. We will announce your project on our community channels (LinkedIn, WhatsApp, etc.).
+3. Engage with contributors by labeling good issues (`help-wanted`, `good-first-issue`).
+
+---
+
+### 🎉 Welcome to the **SRE Community Open Source Hub**! 🎉
