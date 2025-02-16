@@ -6,7 +6,7 @@ Welcome to the **SRE Community Open Source Hub**! Follow these steps to onboard 
 
 ## 🚀 Step 1: Submit Your Project
 1. Fork the `projects` repository.
-2. Copy the `PROJECT_TEMPLATE.md` file into a new folder under `submissions/your-project-name`.
+2. Copy the `PROJECT_TEMPLATE.md` file into a new folder under `proposals/your-project-name`.
 3. Fill in all the required details in `PROJECT_TEMPLATE.md`.
 4. Open a **Pull Request (PR)** to propose your project.
 5. Add the `new-submission` label to your PR.
