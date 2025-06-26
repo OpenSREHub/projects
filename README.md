@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OpenSREHub/projects/blob/eea3ff1916e886904a763a28c12ec999a204bb6c/.github/Official%20Logo%20%7C%20SRE-KL.jpeg?raw=true" alt="SRE-KL Logo" width="300"/>
+  <img src="https://github.com/OpenSREHub/projects/blob/22e468cfdf002dd919938827feefee3fc2059f76/.github/Official%20Logo%20SRE-KL.jpeg?raw=true" alt="SRE-KL Logo" width="300"/>
 </p>
 
 # SRECommunity Projects
