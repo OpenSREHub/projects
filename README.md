@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/OpenSREHub/projects/blob/eea3ff1916e886904a763a28c12ec999a204bb6c/.github/Official%20Logo%20%7C%20SRE-KL.jpeg?raw=true" alt="SRE-KL Logo" width="300"/>
+</p>
+
 # SRECommunity Projects
 
 Welcome to the **SRECommunity Projects**! 🚀 This is an open-source initiative where SREs, DevOps engineers, and developers can contribute their projects, tools, and experiments to the community. 
